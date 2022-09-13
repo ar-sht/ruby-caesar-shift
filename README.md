@@ -1,2 +1,2 @@
-# ruby-ceasar-shift
-TOP project - Ruby course, Ceaser Cipher
+# ruby-caesar-shift
+TOP project - Ruby course, Caesar Cipher
